@@ -1,6 +1,6 @@
 {
   "name": "Hello",
   "tagline": "hello",
-  "body": "<a href=\"index.html\">index.html</a>",
+  "body": "[index.html](index.html)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
